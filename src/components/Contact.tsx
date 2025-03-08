@@ -1,4 +1,5 @@
 import { ArrowRight } from "lucide-react";
+import dotenv from "dotenv";
 
 const Contact = () => {
   const whatsappNumber = process.env.WHATSAPP_NUMBER;
