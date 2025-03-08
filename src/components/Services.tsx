@@ -35,7 +35,7 @@ const services = [
 ];
 
 const Services = () => {
-  const whatsappNumber = process.env.WHATSAPP_NUMBER;
+  const whatsappNumber = import.meta.env.VITE_WHATSAPP_NUMBER;
 
   return (
     <section id="serviços" className="py-20 bg-aesthetic-white">

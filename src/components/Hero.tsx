@@ -2,7 +2,7 @@ import { ArrowRight } from "lucide-react";
 import dotenv from "dotenv";
 
 const Hero = () => {
-  const whatsappNumber = process.env.WHATSAPP_NUMBER;
+  const whatsappNumber = import.meta.env.VITE_WHATSAPP_NUMBER;
 
   return (
     <section
