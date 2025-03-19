@@ -1,5 +1,4 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import dotenv from "dotenv";
 
 const services = [
   {
@@ -21,11 +20,6 @@ const services = [
     title: "PEIM",
     description:
       "Tratamento injetável que elimina microvasos e vasinhos, deixando a pele mais uniforme e sem imperfeições, com resultados rápidos e eficazes.",
-  },
-  {
-    title: "Microagulhamento",
-    description:
-      "Estimula a produção de colágeno e elastina, melhorando a textura da pele e reduzindo cicatrizes, estrias e manchas.",
   },
   {
     title: "Tratamentos Corporais",
