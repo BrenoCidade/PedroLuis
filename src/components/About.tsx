@@ -20,21 +20,24 @@ const About = () => {
               Sobre Pedro Luis
             </h2>
             <p className="font-montserrat text-gray-700 mb-6">
-              Pedro Luis é um profissional dedicado na área de beleza e
-              estética. Formado em Biomedicina com especialização em Estética, é
-              expert em procedimentos estéticos faciais e corporais,
-              destacando-se pela excelência e dedicação em proporcionar cuidados
-              personalizados e resultados de alta qualidade.
+              Pedro Luis é um profissional apaixonado pela arte de realçar a
+              beleza natural, com formação em Biomedicina e especialização em
+              Biomedicina Estética. Com vasta experiência em procedimentos
+              corporais, ele se destaca pela busca incessante por resultados
+              naturais, seguros e personalizados para cada cliente.
             </p>
             <p className="font-montserrat text-gray-700 mb-6">
-              Com um olhar clínico apurado e dedicação aos detalhes, Pedro Luis
-              trabalha para realçar a beleza natural de cada cliente, sempre
-              priorizando resultados naturais e personalizados.
+              Com um currículo de peso, Pedro Luis possui a qualificação do
+              Facesse, curso liderado pela renomada Dra. Vanessa Sampaio, além
+              de ter trabalhado ao lado de grandes profissionais da área como
+              Dra. Sharmylle e Dr. Leandro, o que o fez aprofundar ainda mais
+              suas habilidades.
             </p>
             <p className="font-montserrat text-gray-700">
-              Comprometido com a excelência, mantém-se constantemente atualizado
-              com as mais recentes técnicas e tecnologias do mercado, garantindo
-              procedimentos seguros e eficazes.
+              Sempre comprometido com a excelência, Pedro Luis se mantém
+              atualizado com as mais recentes tecnologias e práticas do mercado,
+              garantindo tratamentos eficazes que trazem resultados visíveis e
+              duradouros, respeitando a individualidade de cada pessoa.
             </p>
           </div>
         </div>

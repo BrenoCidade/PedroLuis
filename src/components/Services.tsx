@@ -5,22 +5,22 @@ const services = [
   {
     title: "Lipoenzimatica",
     description:
-      "Tratamento não invasivo que ajuda a combater a gordura localizada e reduzir medidas, melhorando o contorno corporal.",
+      "A Lipo Enzimática é um tratamento não invasivo que reduz a gordura localizada de forma eficaz, utilizando enzimas lipolíticas, sem cirurgia, proporcionando contornos mais definidos e naturais.",
   },
   {
-    title: "Botox",
+    title: "Hidrolipoclasia",
     description:
-      "Aplicação de toxina botulínica para suavizar rugas e linhas de expressão, proporcionando um aspecto mais jovem e natural.",
+      "tratamento não cirúrgico que utiliza uma solução para quebrar a gordura localizada. Ajuda a reduzir medidas e modelar o corpo de maneira eficaz e segura.",
   },
   {
-    title: "Preenchimento Facial",
+    title: "Radiofrequência",
     description:
-      "Procedimento que restaura o volume facial perdido, define contornos e corrige imperfeições, realçando a beleza natural.",
+      "Tratamento que utiliza ondas de calor para estimular a produção de colágeno, firmando a pele e combatendo a flacidez. ",
   },
   {
-    title: "Limpeza de Pele",
+    title: "PEIM",
     description:
-      "Tratamento que remove impurezas, células mortas e cravos, deixando a pele limpa, macia e com aspecto saudável.",
+      "Tratamento injetável que elimina microvasos e vasinhos, deixando a pele mais uniforme e sem imperfeições, com resultados rápidos e eficazes.",
   },
   {
     title: "Microagulhamento",

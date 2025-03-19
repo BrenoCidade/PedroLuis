@@ -12,8 +12,9 @@ const Contact = () => {
             Entre em Contato
           </h2>
           <p className="font-montserrat text-gray-600 max-w-2xl mx-auto">
-            Estou disponível para tirar suas dúvidas e agendar consultas para
-            procedimentos estéticos personalizados.
+            Estou aqui para te ajudar a conquistar os resultados que você
+            deseja. Agende sua consulta e vamos criar juntos um tratamento
+            estético feito sob medida para você!
           </p>
         </div>
 

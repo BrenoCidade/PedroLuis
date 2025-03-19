@@ -16,11 +16,12 @@ const Hero = () => {
             style={{ animationDelay: "0.2s" }}
           >
             <h1 className="font-playfair text-4xl md:text-5xl lg:text-6xl font-bold text-aesthetic-black mb-6">
-              Realce sua beleza com Pedro Luis
+              Transforme-se com Pedro Luis
             </h1>
             <p className="font-montserrat text-gray-700 mb-8 text-lg">
-              Especialista em procedimentos estéticos como Lipoenzimatica, Botox
-              e outros tratamentos para realçar sua beleza natural.
+              Especialista em Lipo Enzimática, tratamentos para gordura
+              localizada, microvasos e muito mais, para realçar sua confiança e
+              autoestima.
             </p>
             <a
               href={`https://wa.me/${whatsappNumber}`}
@@ -32,16 +33,16 @@ const Hero = () => {
             </a>
           </div>
           <div
-            className="md:w-1/3 animate-fade-in mx-auto"
+            className="md:w-2/5 animate-fade-in mx-auto mt-1"
             style={{ animationDelay: "0.4s" }}
           >
             <div className="relative flex justify-center">
               <div className="absolute bg-gradient-to-r from-aesthetic-beige to-transparent opacity-30 z-10 rounded-lg"></div>
-              <div className="aspect-w-4 aspect-h-5 rounded-3xl overflow-hidden shadow-xl flex justify-center items-center">
+              <div className="aspect-w-3 aspect-h-4 rounded-3xl overflow-hidden shadow-[0_4px_20px_-2px_rgba(0,0,0,0.2)]">
                 <img
                   src="/images/hero-image.png"
                   alt="Pedro Luis - Esteticista Profissional"
-                  className="object-cover w-3/4 h-3/4 mx-auto"
+                  className="object-cover w-full h-full"
                 />
               </div>
             </div>
